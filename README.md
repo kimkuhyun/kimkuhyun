@@ -71,10 +71,10 @@
 
 | 프로젝트 | 한 줄 소개 | 핵심 스택 |
 |---|---|---|
-| 🛰️ **[POLARIS](https://github.com/kimkuhyun/mnnk525)** | 흩어져 있는 기업 정보(공시·뉴스·특허·통계·채용)를 한데 엮어서, 한 회사를 둘러싼 "관계 지도"를 그려주고 현황을 추적하는 서비스 | `GraphRAG` `Neo4j` `Qdrant` `MariaDB` `Ollama` |
+| 🛰️ **[POLARIS 진행중](https://github.com/kimkuhyun/mnnk525)** | 흩어져 있는 기업 정보(공시·뉴스·특허·통계·채용)를 한데 엮어서, 한 회사를 둘러싼 "관계 지도"를 그려주고 현황을 추적하는 서비스 | `GraphRAG` `Neo4j` `Qdrant` `MariaDB` `Ollama` |
 | 🌿 **[WHOAREYOU](https://github.com/kimkuhyun/WHOAREYOU)** | 취업 준비 올인원 — 사람인·잡코리아·원티드 **3사 통합 채용검색** + 이력서 **ATS 매칭** + **AI 기업조사** + 통근거리 수집 | `FastAPI` `Playwright` `Ollama` |
 | 🎙️ **[EZ-Interview](https://github.com/kimkuhyun/ez-interview)** | 실시간 음성 면접 + **LangGraph v5 적대적 디베이트** 멀티에이전트 평가 리포트 (증거 교차검증) | `LangGraph` `pgvector` `Vito STT` `OpenAI` |
-| 🧩 **[chch](https://github.com/kimkuhyun/chchar)** | 파츠(atlas) 조립형 paper-doll **Pawn 크리에이티브 SaaS** · 서버 추론으로 파츠 생성 → 슬롯 조립·공유 | `React 19` `TypeScript` `Tailwind v4` `Zustand` `Phaser` |
+| 🧩 **[chch 진행중](https://github.com/kimkuhyun/chchar)** | 파츠(atlas) 조립형 paper-doll **Pawn 크리에이티브 SaaS** · 서버 추론으로 파츠 생성 → 슬롯 조립·공유 | `React 19` `TypeScript` `Tailwind v4` `Zustand` `Phaser` |
 | 📘 **[ml-handbook](https://github.com/kimkuhyun/ml-handbook)** | 비식별 **52피처·21클래스 다중분류** Streamlit 41p ML 핸드북 · **DACON 본선** | `LightGBM` `XGBoost` `앙상블` `Streamlit` |
 
 <!-- 레포명을 mnnk525 → POLARIS 로 바꾸면 링크도 .../POLARIS 로 수정하세요 (GitHub가 옛 이름 자동 리다이렉트) -->
